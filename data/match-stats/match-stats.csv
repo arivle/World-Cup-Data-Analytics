@@ -1,6 +1,6 @@
 date,nationalTeam,matches,goals,shot,shot_on,posession,pass,acc_pass,fouls,y_card,offside,corner
-20/11/2022,Qatar,gs1,0,0,0,0,0,0,0,0,0,0
-20/11/2022,Ecuador,gs1,0,0,0,0,0,0,0,0,0,0
+20/11/2022,Qatar,gs1,0,5,0,0.47,434,0.8,15,4,3,1
+20/11/2022,Ecuador,gs1,2,6,3,0.53,486,0.84,15,2,4,3
 21/11/2022,England,gs1,0,0,0,0,0,0,0,0,0,0
 21/11/2022,Iran,gs1,0,0,0,0,0,0,0,0,0,0
 21/11/2022,Senegal,gs1,0,0,0,0,0,0,0,0,0,0
